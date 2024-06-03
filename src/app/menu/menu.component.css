@@ -19,7 +19,14 @@ nav ul {
     top: 70px;
     background: #fff;
     width: 100%;
+    
 }
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
 
 nav ul.open {
     display: flex;
